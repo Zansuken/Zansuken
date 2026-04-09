@@ -49,21 +49,6 @@ If you have a project in mind → **[let's talk](mailto:your@email.com)**
 
 ---
 
-## GitHub activity
-
-<!--
-  Tip: replace the URL below with your actual GitHub stats card once live.
-  Example: https://github-readme-stats.vercel.app/api?username=Zansuken
--->
-
-<div align="center">
-
-![Sébastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zansuken&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=4D9EFF&text_color=DDE4ED)
-
-</div>
-
----
-
 <div align="center">
 
 *Portfolio powered by [getfolio.dev](https://getfolio.dev) — the developer portfolio that updates itself.*
