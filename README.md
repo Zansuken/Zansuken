@@ -52,9 +52,9 @@ Generates a developer portfolio from your GitHub activity and keeps it in sync. 
 
 React and TypeScript component library built from scratch. Compound component patterns, headless architecture, zero dependencies. Includes an accessible DatePicker with range selection and a virtualized Table.
 
-#### [agile-flow](https://github.com/Zansuken/agile-flow)
+#### [Cairn](https://github.com/Zansuken/cairn)
 
-Full-stack project management app with a real-time Kanban board. React, NestJS, Firebase.
+Android app for streak-tracking app abstinence. Flutter and Kotlin, with on-device usage detection running on Android 15. In active development.
 
 ---
 
